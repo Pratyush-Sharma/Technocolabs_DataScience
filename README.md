@@ -1,6 +1,6 @@
 # Spotify web app deployed on Heroku
 
-The deployed web app is live at https://dp-penguins.herokuapp.com/
+The deployed web app is live at https://spotify-skip-prediction101.herokuapp.com/
 
 This web app predicts whether the song that the user will listen to in next session on spotify will be skipped by him or not as a function of input parameters (duration, realease year, popularity, reason for start and end, etc).
 
